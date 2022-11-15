@@ -1,0 +1,6 @@
+monday 8 10 idde
+monday 10 12 groupproject
+monday 14 16 mediiprog
+tuesday 8 10 java
+tuesday 12 14 numerical
+friday 18 20 ai
